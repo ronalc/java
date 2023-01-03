@@ -1,5 +1,3 @@
-package testes;
-
 import dia1.Converter;
 
 public class TesteDia1 {
